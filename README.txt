@@ -119,7 +119,7 @@ Install dependencies:
    pip install -r requirements.txt
 
 Configure environment variables in .env:
-   ZABBIX_API_URL=http://10.88.90.84/zabbix/api_jsonrpc.php
+   ZABBIX_API_URL=http://zabbix_server/zabbix/api_jsonrpc.php
    ZABBIX_USER=
    ZABBIX_PASSWORD=
    OPENAI_API_KEY=
