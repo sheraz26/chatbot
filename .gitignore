@@ -1,0 +1,5 @@
+# Ignore environment variable files
+.env
+
+# If you're using a virtual environment directory named `.venv`, ignore it
+.venv/
